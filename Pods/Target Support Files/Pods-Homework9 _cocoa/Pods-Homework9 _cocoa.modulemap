@@ -1,0 +1,6 @@
+framework module Pods_Homework9__cocoa {
+  umbrella header "Pods-Homework9 _cocoa-umbrella.h"
+
+  export *
+  module * { export * }
+}
